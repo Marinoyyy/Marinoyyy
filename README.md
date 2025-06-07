@@ -8,6 +8,8 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
     <td width="50%" align="right">
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzVrcGwxY2djZm5nbzdxYnNrazJqY2pyMHJsa3NkNTdzY2dva3R1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="100" />
     </td>
+    <td width="50%" align="right">
+      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXlyZTNnZ2UyOXcybmI2bjMyOWtraTRxMnl3YjVybTM5NTIxem9jYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="100" />
   </tr>
 </table>
   <h2>Web developer</h2>
