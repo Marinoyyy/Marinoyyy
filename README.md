@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pedro Marinho
+Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Meu nome é Pedro Marinho
 =====================================================================================================================================
 <table>
   <tr>
@@ -10,15 +10,15 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     </td>
   </tr>
 </table>
-  Web developer
--------------
+  <h2>Web developer</h2>
+  
 
 Desenvolvedor em Web especialista em Python (Flask), Html e CSS. Com Interfaces únicas e atraentes, perfeito para alavancar suas vendas ou para controle de seus dados e clientes
 
-* 🌍  I'm based in São Paulo
-* 🖥️  See my portfolio at [Studio Bella Marinho](http://https://fanciful-zuccutto-7dffff.netlify.app/#booking)
-* ✉️  You can contact me at [Marinoyyy985@gamil.com](mailto:Marinoyyy985@gamil.com)
-* 🧠  I'm learning Banco de dados e Benefícios das inteligências artificiais
+* 🌍  Moro em São Paulo
+* 🖥️  Pode ver meus sites em [Studio Bella Marinho](http://https://fanciful-zuccutto-7dffff.netlify.app/#booking)
+* ✉️  Meu contato [Marinoyyy985@gamil.com](mailto:Marinoyyy985@gamil.com)
+* 🧠  Estou aprendendo Banco de dados e Benefícios das inteligências artificiais
 * ⚡  Curso de Python avançado, Data bases, Big data, Web designer e Front end Pela FIAP
 
 ### Skills
