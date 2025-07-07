@@ -18,7 +18,7 @@ Olá![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Desenvolvedor em Web especialista em Python (Flask), Html e CSS. Com Interfaces únicas e atraentes, perfeito para alavancar suas vendas ou para controle de seus dados e clientes
 
 * 🌍  Moro em São Paulo
-* 🖥️  Pode ver meus sites em [Studio Bella Marinho](http://https://fanciful-zuccutto-7dffff.netlify.app/#booking)
+* 🖥️  Pode ver meus sites em [Chama o DEV]https://chama-o-dev.onrender.com/
 * ✉️  Meu contato [Marinoyyy985@gamil.com](mailto:Marinoyyy985@gamil.com)
 * 🧠  Estou aprendendo Banco de dados e Benefícios das inteligências artificiais
 * ⚡  Curso de Python avançado, Data bases, Big data, Web designer e Front end Pela FIAP
